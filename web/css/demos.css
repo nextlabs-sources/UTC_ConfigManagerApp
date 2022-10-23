@@ -1,0 +1,217 @@
+body {
+	font-size: 62.5%;
+	font-family: "Trebuchet MS", "Arial", "Helvetica", "Verdana",
+		"sans-serif";
+}
+
+table {
+	font-size: 1em;
+}
+
+.demo-description {
+	clear: both;
+	padding: 12px;
+	font-size: 1.3em;
+	line-height: 1.4em;
+}
+
+.ui-draggable,.ui-droppable {
+	background-position: top;
+}
+
+table tr:nth-child(odd) td {
+	background-color: #C0C0C0;
+}
+
+table tr:nth-child(even) td {
+	background-color: #808080;
+}
+
+.ccltable-container {
+	text-align: center;
+	width: 880px;
+	margin-left: 40px;
+	margin-top: 75px;
+	margin-bottom: 25px;
+}
+.ipmtable-container{
+		text-align: center;
+	width: 500px;;
+	margin-left: 281px;
+	margin-top: 75px;
+	margin-bottom: 25px;
+}
+.juris {
+	width: 20%;
+	height:20px;
+	word-wrap: break-word;
+}
+
+.classi {
+	width: 20%;
+	height:20px;
+	word-wrap: break-word;
+}
+
+.cc {
+	width: 35%;
+	height:20px;
+word-wrap: break-word;
+}
+
+.roc {
+	width: 25%;
+	height:20px;
+	word-wrap: break-word;
+}
+
+.editdelete {
+	width: 20%;
+}
+
+.uiaddbutton {
+	float: right;
+	margin-right: 42px;
+	margin-top: 15px;
+	height: 20px;
+}
+
+.uisearchbutton {
+	float: right;
+	margin-right: -71px;
+	margin-top: 42px;
+}
+.uisearchbutton1 {
+	float: right;
+	margin-right: 1px;
+	margin-top: 42px;
+}
+
+
+.tb10 {
+	background-image: url(images/form_bg.jpg);
+	background-repeat: repeat-x;
+	border: 1px solid #d1c7ac;
+	color: #333333;
+	padding: 3px;
+	margin-right: 4px;
+	margin-bottom: 8px;
+	font-family: tahoma, arial, sans-serif;
+}
+
+#cclflag {
+	width: 73px;
+}
+
+#jurisdiction {
+	width: 163px;
+	
+}
+
+#classification {
+	width: 161px;
+	
+}
+
+#country-code {
+	width: 290px;
+	
+}
+
+#reason-for-control {
+	width: 138px;
+	
+}
+
+#tabs-1 {
+	cursor: pointer;
+}
+
+#tabs-2 {
+	cursor: pointer;
+}
+.icon{
+	width: 19px;
+	height: 19px;
+}
+
+input.tb10
+{
+	width:208px
+}
+select.tb10
+{
+	width:218px
+}
+.dialogtable
+{
+	background-color: #ECE5B6;
+	width:375px;
+	margin-left: 95px;
+}
+.dialogtable th
+{
+	width:40%;
+}
+.dialogtable td
+{
+	width:60%;
+}
+
+.cidr{
+	width:40%;
+}
+.type{
+		width:30%;
+}
+.countrycode
+{
+	width:30%;
+}
+#ipm{
+	width:400px;
+}
+#cidr{
+		width:144px;
+}
+#type{
+		width:104px;
+}
+#ccbox{
+	width:105px;
+}
+
+.uiipmaddbutton {
+	float: right;
+	margin-right: 220px;
+	margin-top: 15px;
+	height: 20px;
+}
+
+.uiipmsearchbutton {
+	float: right;
+	margin-right: -71px;
+	margin-top: 42px;
+}
+.uiipmsearchbutton1 {
+	float: right;
+	margin-right: 1px;
+	margin-top: 42px;
+}
+
+.box1 {
+	width: 100%;
+	height: 55px;
+	position: relative;
+}
+
+
+#login { 
+	font-family:cursive;
+	font-size:x-small;
+	
+   position: absolute; 
+   top: 45px; 
+   left:1175px; 
+   width: 100%; 
+}

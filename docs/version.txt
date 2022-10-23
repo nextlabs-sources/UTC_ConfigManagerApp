@@ -1,0 +1,19 @@
+VERSION_NUMBER:46976
+RELEASE_DATE:Nov 29 2013
+Nov 29 2013
+Fixed confingamanger corner-case bug found while using it
+
+
+NOv 19 2013
+
+-- Fixed the java script errors for IE7 standards
+
+Nov 14 2013
+-- Fixed the js issues reported by PWC team
+
+June 14th 2013
+- Password encryption for BizAuthDatabase Passoword 
+
+
+June 7th 2013
+- Base Version release
